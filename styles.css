@@ -1,0 +1,18 @@
+html {
+  background-image: url("https://i.imgur.com/Ek25aFH.jpg");
+  overflow: hidden;
+ 
+}
+  canvas {
+  border: 1px solid #000000;
+  background-color: #596467;
+}
+#my-canvas {
+  background-size: 100% 100%;
+  border: 10px ridge #53534E;
+  box-shadow: 5px 3px 3px 3px #242421;
+  padding: 0;
+  margin: auto;
+  display: block;
+  width: 800px;
+}
